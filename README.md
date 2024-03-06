@@ -4,7 +4,7 @@ More about me
 - 🔭 I’m currently working on Getting an entry level job 
 - 🌱 I’m currently learning red-team and blue-team skills 
 - 👯 I’m looking to collaborate on Tool development for cybersecurity 
-- 💬 Ask me about Cloud Security 
+- 💬 Ask me about SOC/DevSecOps
 - 📫 How to reach me: LinkedIn 
 - 😄 Pronouns: He/him 
 
