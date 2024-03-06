@@ -8,7 +8,7 @@ More about me
 - 📫 How to reach me: LinkedIn 
 - 😄 Pronouns: He/him 
 
-I am from India and devoted to learning more about cloud and application security. I am skilled in deploying infrastructure, building pipelines, and securing what I build.
+I am devoted to learning more about cloud and application security. I am skilled in deploying infrastructure, building pipelines, and securing what I build.
 
 Skills
 -
