@@ -1,14 +1,14 @@
 ### Hi there 👋, my name is Anshumaan
 #### I am a fast-learning cyber practitioner 
 More about me
-- 🔭 I’m currently working on Getting an entry level job 
+- 🔭 I’m currently working on Getting an entry-level job 
 - 🌱 I’m currently learning red-team and blue-team skills 
 - 👯 I’m looking to collaborate on Tool development for cybersecurity 
-- 💬 Ask me about SOC/DevSecOps
+- 💬 Ask me about Cybersecurity
 - 📫 How to reach me: LinkedIn 
 - 😄 Pronouns: He/him 
 
-I am devoted to learning more about cloud and application security. I am skilled in deploying infrastructure, building pipelines, and securing what I build.
+I am devoted to learning more areas in Cybersecurity such as cloud, application, and Network security. I am skilled in deploying infrastructure, building pipelines, and securing what I build.
 
 Skills
 -
