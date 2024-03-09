@@ -22,6 +22,6 @@ working on it!
 
 Certifications
 -
-<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width=170> <img src="https://images.credly.com/size/680x680/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" width=175><img src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width=175><img src="https://images.credly.com/size/680x680/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" width=170>
+<img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width=150> <img src="https://images.credly.com/size/680x680/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" width=150><img src="https://images.credly.com/size/680x680/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width=150><img src="https://images.credly.com/size/680x680/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" width=150>
 
 
