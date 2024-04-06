@@ -5,7 +5,7 @@ More about me
 - 🌱 I’m currently learning red-team and blue-team skills 
 - 👯 I’m looking to collaborate on Tool development for cybersecurity 
 - 💬 Ask me about Application and Cloud Security
-- 📫 How to reach me: LinkedIn 
+- 📫 How to reach me: LinkedIn/Email
 - 😄 Pronouns: He/him 
 
 I am devoted to learning more areas in Cybersecurity such as Cloud, Application, and Network security. I am skilled in deploying infrastructure, building pipelines, and securing what I build.
