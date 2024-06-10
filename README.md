@@ -18,7 +18,7 @@ DevOps Tools: Terraform, Azure DevOps, Git, Kubernetes, AWS CloudFormation, Kube
 
 Work
 -
-Right now, I am interning at Westfield
+Right now, I am interning at Westfield Insurance
 
 Certifications
 -
