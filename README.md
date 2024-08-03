@@ -2,7 +2,7 @@
 #### I am a fast-learning cyber practitioner 
 More about me
 - 🔭 I’m currently working on Getting an entry-level job 
-- 🌱 I’m currently learning red-team and blue-team skills 
+- 🌱 I’m currently learning application security and cloud security
 - 👯 I’m looking to collaborate on Tool development for cybersecurity 
 - 💬 Ask me about Application and Cloud Security
 - 📫 How to reach me: LinkedIn/Email
@@ -18,7 +18,9 @@ DevOps Tools: Terraform, Azure DevOps, Git, Kubernetes, AWS CloudFormation, Kube
 
 Work
 -
-Right now, I am interning at Westfield Insurance
+Interned at Ismile Technologies as a cloud engineer where I developed Azure cloud infrastructure using Terraform, implemented security practices, and learned about CI/CD pipelines
+
+Interned at Westfield Insurance as a Security Engineer and worked on developing APIs in Python and creating Azure DevOps pipelines
 
 Certifications
 -
