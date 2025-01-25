@@ -34,6 +34,12 @@ Focus: Cloud Computing
 
 ### 💼 Professional Journey
 
+#### **Cyber utomation Engineer** @  NDIT
+`Jan 2025 - Present`  
+✅ Developed playbooks for use cases such as identifying mising logs, deduplication of Service Now tickets and other use cases  
+✅ Troubleshot sub playbooks and tested them using testing playbooks in palo Alto Cortex XSIAM  
+✅ Collaborated with stakeholders to ensure that requirements of usescases are met without any delays
+
 #### **Cybersecurity Intern** @ Changing The Present  
 `Aug 2024 - Jan 2025`  
 ✅ Resolved Linux security tickets via firewall/AppArmor configurations  
@@ -50,7 +56,7 @@ Focus: Cloud Computing
 `Oct 2021 - Jan 2022`  
 ☁️ Reduced cloud costs 15% through Terraform module optimization  
 🚨 Improved alert response time 20% via AWS/Azure monitoring analysis  
-⚙️ Automated infra deployment saving 30+ hours/month with Azure DevOps  
+⚙️ Automated infra deployment using CI/CD pieplines and Terraform saving 30+ hours/month with Azure DevOps  
 
 ---
 
@@ -83,6 +89,9 @@ Focus: Cloud Computing
 [![AZ-104](https://img.shields.io/badge/Azure_Admin-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com)
 
 ---
+
+## Learning Methods
+[![TryHackMe Stats](https://tryhackme-stats.vercel.app/api/?username=Anshumaan)](https://tryhackme.com/p/Anshumaan)
 
 ### 📊 GitHub Analytics
 
