@@ -91,7 +91,8 @@ Focus: Cloud Computing
 ---
 
 ## Learning Methods
-[![TryHackMe](https://tryhackme.com/badge/586634)](https://tryhackme.com/p/Anshumaan)
+[![TryHackMe]<img src="https://tryhackme-badges.s3.amazonaws.com/PH4NT0M.png" alt="Your Image Badge" />
+](https://tryhackme.com/p/PH4NT0M)
 ### 📊 GitHub Analytics
 
 <div align="center">
