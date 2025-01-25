@@ -93,6 +93,11 @@ Focus: Cloud Computing
 ## Learning Methods
 [<img src="https://tryhackme-badges.s3.amazonaws.com/PH4NT0M.png" alt="Your Image Badge" />
 ](https://tryhackme.com/p/PH4NT0M)
+
+## Research Papers
+[EFFICIENT DETECTION OF PHISHING HYPERLINKS USING MACHINE LEARNING](https://ijcionline.com/paper/10//10221ijci04.pdf)
+[Intrusion Detection Using Feed-Forward Neural Network](https://link.springer.com/chapter/10.1007/978-981-19-7447-2_9)
+
 ### 📊 GitHub Analytics
 
 <div align="center">
