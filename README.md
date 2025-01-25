@@ -91,8 +91,7 @@ Focus: Cloud Computing
 ---
 
 ## Learning Methods
-[![TryHackMe Stats](https://tryhackme-stats.vercel.app/api/?username=Anshumaan)](https://tryhackme.com/p/Anshumaan)
-
+[![TryHackMe](https://tryhackme.com/badge/586634)](https://tryhackme.com/p/Anshumaan)
 ### 📊 GitHub Analytics
 
 <div align="center">
