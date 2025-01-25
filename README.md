@@ -100,7 +100,6 @@ Focus: Cloud Computing
 [![Cyber-Practitioner's Stats](https://github-readme-stats.vercel.app/api?username=cyber-practitioner&show_icons=true&theme=algolia&hide_border=true)](https://github.com/cyber-practitioner)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-practitioner&layout=compact&theme=algolia&hide_border=true)](https://github.com/cyber-practitioner)
 
-![Contribution Snake](https://raw.githubusercontent.com/cyber-practitioner/cyber-practitioner/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
