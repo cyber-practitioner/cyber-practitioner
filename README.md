@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 **Security-focused Cloud Engineer** passionate about building secure infrastructure and automating defense mechanisms.  
-🔭 **Currently:** Pursuing Master's in Cybersecurity @ University of Maryland  
+🔭 **Currently:** Cyber Automation Engineer at NDIT
 🎯 **Mission:**  
 - 🔐 Hardening cloud environments through Infrastructure-as-Code  
 - ⚡ Streamlining SOC operations with intelligent automation  
