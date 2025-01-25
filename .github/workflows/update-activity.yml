@@ -1,0 +1,21 @@
+name: Update Anshumaan's Activity
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Updates hourly
+  workflow_dispatch:     # Manual trigger
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Add Your Activity
+        uses: jamesgeorge007/github-activity-readme@master
+        with:
+          GH_USERNAME: cyber-practitioner  # Your exact username
+          COMMIT_MSG: "chore(activity): Update Anshumaan's feed [skip ci]"
+          MAX_LINES: 5  # Show last 5 activities
+
+      - name: Push Updates
+        uses: stefanzweifel/git-auto-commit-action@v5
