@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Anshumaan Mishra
-#### 🛡️ Cloud Security Specialist | 🔧 DevSecOps Engineer | ⚡ Kubernetes Advocate
+#### 🛡️ Cloud Security Enthusiast | 🔧 SOC Engineer | ⚡ Security tool developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Now-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amishra8/)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amishra8@umd.edu)
