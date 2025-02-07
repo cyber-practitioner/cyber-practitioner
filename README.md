@@ -11,7 +11,8 @@
 ### 🚀 About Me
 **Security-focused Cloud Engineer** passionate about building secure infrastructure and automating defense mechanisms.  
 🔭 **Currently:** Cyber Automation Engineer at NDIT
-🎯 **Mission:**  
+
+🎯 **Interest:**  
 - 🔐 Hardening cloud environments through Infrastructure-as-Code  
 - ⚡ Streamlining SOC operations with intelligent automation  
 - 🛠️ Bridging security gaps in CI/CD pipelines  
@@ -113,7 +114,7 @@ Focus: Cloud Computing
 ### 📌 Recent Activity
 <!-- ACTIVITY_START:striped -->  
 <!--START_SECTION:activity-->
-...your activities...
+No recent activity found.
 <!--END_SECTION:activity-->
 <!-- ACTIVITY_END -->
 
