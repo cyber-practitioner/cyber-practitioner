@@ -1,21 +1,36 @@
-name: Update Anshumaan's Activity
+name: Update README
+
 on:
   schedule:
-    - cron: "0 0 * * *"  # Updates hourly
-  workflow_dispatch:     # Manual trigger
+    - cron: '0 0 * * *' # Runs daily at midnight
+  workflow_dispatch: # Allows manual triggering
 
 jobs:
-  update-feed:
+  update-readme:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-      - name: Add Your Activity
-        uses: jamesgeorge007/github-activity-readme@master
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
-          GH_USERNAME: cyber-practitioner  # Your exact username
-          COMMIT_MSG: "chore(activity): Update Anshumaan's feed [skip ci]"
-          MAX_LINES: 5  # Show last 5 activities
+          python-version: '3.9'
 
-      - name: Push Updates
-        uses: stefanzweifel/git-auto-commit-action@v5
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+
+      - name: Update README
+        run: |
+          python .github/scripts/update_readme.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update README with recent activity"
+          git push
