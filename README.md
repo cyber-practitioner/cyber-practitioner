@@ -19,20 +19,20 @@
 ## 💼 Experience
 
 ### 🔹 **North Dakota IT** - Cyber Automation Engineer (Dec 2024 - Present)
-- Developed Python scripts to automate security tasks, **reducing MTTR by 30%**
-- Monitored 10+ EDR alerts weekly, **lowering false positives by 20%**
-- Built SOAR playbooks that **reduced alert fatigue by 45%**
-- Used SPL/XQL queries on Splunk/Cortex XSIAM, **improving threat detection by 20%**
+- Developed Python scripts to automate security tasks, reducing MTTR by 30%
+- Monitored 10+ EDR alerts weekly, lowering false positives by 20%
+- Built SOAR playbooks that reduced alert fatigue by 45%
+- Used SPL/XQL queries on Splunk/Cortex XSIAM, improving threat detection by 20%
 
 ### 🔹 **Changing the Present** - Cybersecurity Intern (Aug 2024 - Dec 2024)
-- Researched Layer 7 attack vectors and OWASP Top 10 vulnerabilities
-- Mapped security controls to NIST Framework
-- Delivered security awareness training to non-technical stakeholders
+- Performed security design reviews on SaaS infrastructure to validate security measures put in place
+- Translated security vulnerabilities into business impact through presentations for non-technical stakeholders
+- Tuned detection rules in cloud SIEMs to increase visibility across cloud assets and built playbooks for faster alert triage
 
 ### 🔹 **Westfield Insurance** - Information Security Intern (May 2024 - July 2024)
-- Built APIs for security telemetry across **5,000+ assets**
-- Created CI/CD pipeline **reducing deployment time from 10 to 4 hours**
-- Led vulnerability remediation **reducing critical vuln time by 10%**
+- Built APIs for security telemetry across 5,000+ assets
+- Created CI/CD pipeline, reducing deployment time from 10 to 4 hours
+- Led vulnerability remediation, utlizing the asset inventory tool to reduce vulnerability backlog
 
 ### 🔹 **Zummit Infolabs** - Python/Django Intern (Aug 2021 - Oct 2021)
 - Built Django backend integrations with MySQL databases
