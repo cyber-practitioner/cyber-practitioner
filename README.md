@@ -18,29 +18,19 @@
 
 ## 💼 Experience
 
-### 🔹 **North Dakota IT** - Cyber Automation Engineer (Dec 2024 - Present)
-- Developed Python scripts to automate security tasks, reducing MTTR by 30%
-- Monitored 10+ EDR alerts weekly, lowering false positives by 20%
-- Built SOAR playbooks that reduced alert fatigue by 45%
-- Used SPL/XQL queries on Splunk/Cortex XSIAM, improving threat detection by 20%
-
-### 🔹 **Changing the Present** - Cybersecurity Intern (Aug 2024 - Dec 2024)
-- Performed security design reviews on SaaS infrastructure to validate security measures put in place
-- Translated security vulnerabilities into business impact through presentations for non-technical stakeholders
-- Tuned detection rules in cloud SIEMs to increase visibility across cloud assets and built playbooks for faster alert triage
-
-### 🔹 **Westfield Insurance** - Information Security Intern (May 2024 - July 2024)
-- Built APIs for security telemetry across 5,000+ assets
-- Created CI/CD pipeline, reducing deployment time from 10 to 4 hours
-- Led vulnerability remediation, utlizing the asset inventory tool to reduce vulnerability backlog
-
-### 🔹 **Zummit Infolabs** - Python/Django Intern (Aug 2021 - Oct 2021)
-- Built Django backend integrations with MySQL databases
-- Automated deployments using Fabric and Ansible
+- Worked with a Myriad of tools such as Terraform, GitLab, SonarQube, PA Cortex XSIAM, Python, Bash, Linux, Windows, AWS, and Azure services
+- Honed communication skills by translating security risks into business impact for C-level execs
+- Automated whatever process I could find
+- Dealt with challenges no one was willing to solve
 
 ---
 
 ## 🚀 Featured Projects
+
+### 🤖 **PromptMon**
+*Ollama, LangChain, Splunk, FastAPI*
+- Python library to gain visibility into Model outputs for security analysis
+- Provides observability for developing security alerts
 
 ### 🤖 **Agentic SOC Assistant**
 *Ollama, LangChain, Tines, Splunk, FastAPI*
@@ -96,9 +86,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyber-practitioner&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4nshumaan&show_icons=true&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-practitioner&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=4nshumaan&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
@@ -117,6 +107,6 @@ I'm interested in discussing cybersecurity automation, threat detection, and sec
 
 **"Automating cybersecurity to make the digital world safer, one script at a time."**
 
-![Profile Views](https://komarev.com/ghpvc/?username=cyber-practitioner&color=brightgreen&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=4nshumaan&color=brightgreen&style=flat-square)
 
 </div>
